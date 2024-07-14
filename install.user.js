@@ -7,8 +7,8 @@
 // @match        https://*.duolingo.com/*
 // @grant        none
 // @icon         https://d35aaqx5ub95lt.cloudfront.net/vendor/a0ee30fa22ca3d00e9e5db913b1965b5.svg
-// @downloadURL  https://greasyfork.org/vi/scripts/494411-super-duolingo
-// @updateURL    https://update.greasyfork.org/scripts/494411/Super-Duolingo.meta.js
+// @downloadURL  https://greasyfork.org/vi/scripts/494758-super-duolingo
+// @updateURL    https://update.greasyfork.org/scripts/494758/Super-Duolingo.meta.js
 // ==/UserScript==
  
 (() => {
